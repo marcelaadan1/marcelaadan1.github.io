@@ -22,7 +22,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 [Link](url) and ![Image](src)
 
 [Marcela's GitHub](https://github.com/marcelaadan1/)
-!Git mascota](images/GitIcon.png)
+![Git mascota](images/GitIcon.png)
 
 ### Markdown
 
