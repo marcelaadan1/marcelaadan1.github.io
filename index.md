@@ -17,14 +17,30 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+# Marcela's unordered list
+
+- Bullet 1 
+- Bullet 2 
+- Bullet 3 
+
 
 1. Numbered
 2. List
 
+## Marcela's ordered list
+1. Item 1
+2. Item 2
+
+### Formatting text
+
 **Bold** and _Italic_ and `Code` text
+
+**Marcela Adan in bold**, _Marcela Adan in italic_, `Marcela Adab in code`.
 
 [Link](url) and ![Image](src)
 ```
+[Marcela's GitHub](https://github.com/marcelaadan1/)
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
