@@ -3,6 +3,26 @@
 You can use the [editor on GitHub](https://github.com/marcelaadan1/marcelaadan1.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Marcela's unordered list
+
+- Bullet 1 
+- Bullet 2 
+- Bullet 3 
+
+## Marcela's ordered list
+1. Item 1
+2. Item 2
+
+### Formatting text
+
+**Bold** and _Italic_ and `Code` text
+
+**Marcela Adan in bold**, _Marcela Adan in italic_, `Marcela Adan in code`.
+
+[Link](url) and ![Image](src)
+
+[Marcela's GitHub](https://github.com/marcelaadan1/)
+!Git mascota](images/GitIcon.png)
 
 ### Markdown
 
@@ -17,30 +37,16 @@ Syntax highlighted code block
 
 - Bulleted
 - List
-# Marcela's unordered list
-
-- Bullet 1 
-- Bullet 2 
-- Bullet 3 
-
 
 1. Numbered
 2. List
-
-## Marcela's ordered list
-1. Item 1
-2. Item 2
 
 ### Formatting text
 
 **Bold** and _Italic_ and `Code` text
 
-**Marcela Adan in bold**, _Marcela Adan in italic_, `Marcela Adab in code`.
-
 [Link](url) and ![Image](src)
 ```
-[Marcela's GitHub](https://github.com/marcelaadan1/)
-
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
