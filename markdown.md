@@ -153,3 +153,6 @@ More ~~strikethough~~.
 :red_circle:
 
 :restroom:
+❤
+
+😊
