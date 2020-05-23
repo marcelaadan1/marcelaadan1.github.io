@@ -5,6 +5,8 @@ It's very easy to make some words **bold** and other words *italic* with Markdow
 
 [Task Lists](#task-lists)
 
+[Tables](#tables)
+
 # Headers
 # This is an h1 tag
 ## This is an h2 tag
@@ -98,11 +100,41 @@ def foo():
 - [ ] this is an incomplete item
         
 ## Tables
+#### Simple table
 
 First Header | Second Header
 -------------|--------------
 Content from cell 1 | Content from cell 2
 Content in column 1 | Content in Column 2
+
+#### More complex table
+
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+
+#### Formatting content within a table
+
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
+
+#### Aligning text in a table
+
+| Left-aligned | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| git status   | git status     | git status    |
+| git diff     | git diff       | git diff      |
+
+#### Including a pipe as content in a table
+
+| Name     | Character |
+| ---      | ---       |
+| Backtick | `         |
+| Pipe     | \|        |
+
 
 ## Automatic linking for URLs
 Any URL such as http://www.github.com/ will be automatically converted into a clickable link.
