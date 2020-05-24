@@ -50,6 +50,13 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+## Test conversion docx to md
+I used this command to convert test-word.docx to test-word.md
+
+```pandoc test-word.docx -f docx -t markdown -s -o test-word.md```
+
+[Word to md conversion results](test-word.md)
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marcelaadan1/marcelaadan1.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
