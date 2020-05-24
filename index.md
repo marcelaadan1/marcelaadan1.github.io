@@ -50,12 +50,19 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-## Test conversion docx to md
-I used this command to convert test-word.docx to test-word.md
+## Test conversion docx to md by using *mardown* and *gfm*
+I used this command to convert test-word.docx to test-word.md with _markdown_.
 
 ```pandoc test-word.docx -f docx -t markdown -s -o test-word.md```
 
 [Word to md conversion results](test-word.md)
+
+I used this command to convert test-word.docx to test-word.md with _gfm_.
+
+```pandoc test-word.docx -f docx -t gfm -s -o test-word2.md```
+
+[Word to md conversion results](test-word2.md)
+
 
 ### Jekyll Themes
 
