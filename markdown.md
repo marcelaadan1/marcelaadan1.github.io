@@ -50,7 +50,9 @@ _You **can** combine them_.
 1. Item 4
    Text under item 4
 <!-- end list -->
+
 #### Startinting new ordered list
+
 1. Item 1 in new list
 1. Item 2 in new list
 1. Item 3 in new list
