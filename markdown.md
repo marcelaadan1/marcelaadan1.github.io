@@ -32,9 +32,9 @@ _You **can** combine them_.
     * Item 3aa
 ## Ordered
 1. Item 1
-![GitHub Logo](images/GitIcon.png "This is GitCat")
+![Resource List](images/SAIOT2EX03-mon-temp-hum_001.jpg "Resource List")
 1. Item 2
-![GitHub Logo](images/GitIcon.png "This is GitCat")
+![Expand Services](images/SAIOT2EX03-mon-temp-hum_002.jpg "Expand Services")
 1. Item 3
    1. Item 3a
    1. Item 3b
