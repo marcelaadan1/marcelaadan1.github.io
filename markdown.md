@@ -49,6 +49,7 @@ _You **can** combine them_.
    Text under Item 3
 1. Item 4
    Text under item 4
+<!-- end list -->
 #### Startinting new ordered list
 1. Item 1 in new list
 1. Item 2 in new list
