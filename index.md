@@ -16,9 +16,19 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Oredered list with paragraphs
 1. Item 1
+   
    Item 1 description
 1. Item 2 
+   
    Item 2 description 
+1. Item 3
+   
+   Item 3 description
+   
+1. Item 4 
+   
+   Item 4 description
+
 
 ### Formatting text
 
