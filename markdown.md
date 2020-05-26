@@ -46,8 +46,14 @@ _You **can** combine them_.
     ![Expand Services](images/SAIOT2EX03-mon-temp-hum_002.jpg "Expand Services")
 
 1. Item 3
-
    Text under Item 3
+1. Item 4
+   Text under item 4
+#### Startinting new ordered list
+1. Item 1 in new list
+1. Item 2 in new list
+1. Item 3 in new list
+   
 
 ## Images
 
