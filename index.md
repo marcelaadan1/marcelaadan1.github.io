@@ -13,6 +13,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 1. Item 1
 2. Item 2
 
+
+## Oredered list with paragraphs
+1. Item 1
+   Item 1 description
+1. Item 2 
+   Item 2 description 
+
 ### Formatting text
 
 **Bold** and _Italic_ and `Code` text
